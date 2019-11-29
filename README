@@ -1,0 +1,14 @@
+
+Entire project is written in Jupyter Notebook
+
+Open the Jupyer notebook and each cell runs separate part of the project
+
+first couple cells will import all the modules that is needed for the program
+
+Cell # 3 will load data and run data analysis
+
+Cell #4 will train and test the data and print out the test results 
+
+** to run each cell, there is a run button on top of the notebook and currently clicked
+will run and the result will be displayed right underneath the bottom
+
